@@ -1,0 +1,13 @@
+.contenedor1 {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
+
+
+.contenedor2 {
+
+    display:flex;
+    justify-content: center;
+    border: solid black;
+}
